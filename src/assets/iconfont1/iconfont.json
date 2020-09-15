@@ -1,0 +1,93 @@
+{
+  "id": "1637992",
+  "name": "BODA-BS",
+  "font_family": "icon-font",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1990143",
+      "name": "生产",
+      "font_class": "production",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "4785150",
+      "name": "角色管理",
+      "font_class": "role",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "5561976",
+      "name": "质量",
+      "font_class": "quality",
+      "unicode": "e8be",
+      "unicode_decimal": 59582
+    },
+    {
+      "icon_id": "9487121",
+      "name": "供应商管理",
+      "font_class": "supplier",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "12696460",
+      "name": "菜单管理",
+      "font_class": "menu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "12937977",
+      "name": "用户管理",
+      "font_class": "user",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "13097637",
+      "name": "现场直播",
+      "font_class": "scene",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "2513708",
+      "name": "保存",
+      "font_class": "save",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "2739751",
+      "name": "导出",
+      "font_class": "daochu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3094896",
+      "name": "导入",
+      "font_class": "daoru",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "10278443",
+      "name": "设备",
+      "font_class": "shebei",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12321331",
+      "name": "状态",
+      "font_class": "state",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "id": "1563441",
+  "name": "bd",
+  "font_family": "iconfont",
+  "css_prefix_text": "els-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "996871",
+      "name": "裁剪",
+      "font_class": "ai50",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "1977859",
+      "name": "来料品质检验",
+      "font_class": "lailiaopinzhijianyan",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "2727655",
+      "name": "基本信息",
+      "font_class": "basic-information",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "6834864",
+      "name": "操作-记录",
+      "font_class": "cz-jl",
+      "unicode": "e772",
+      "unicode_decimal": 59250
+    },
+    {
+      "icon_id": "933709",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1239525",
+      "name": "消耗品记录",
+      "font_class": "xiaohaopinjilu",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "1281300",
+      "name": "年度",
+      "font_class": "niandu",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "5233399",
+      "name": "数据",
+      "font_class": "tubiao-",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "5351377",
+      "name": "月结",
+      "font_class": "yuejie",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "5429567",
+      "name": "月份",
+      "font_class": "yuefen",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "6241675",
+      "name": "生产消耗",
+      "font_class": "shengchanxiaohao",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "10267280",
+      "name": "数据",
+      "font_class": "ico_shuju",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    },
+    {
+      "icon_id": "9241151",
+      "name": "组织架构",
+      "font_class": "iconzhengli_zuzhijiagou",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "5912579",
+      "name": "Home",
+      "font_class": "Home",
+      "unicode": "e73b",
+      "unicode_decimal": 59195
+    },
+    {
+      "icon_id": "903810",
+      "name": "水",
+      "font_class": "shui",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "1079641",
+      "name": "导航_设置",
+      "font_class": "daohangshezhi",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "1119123",
+      "name": "系统",
+      "font_class": "xitong",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "1194580",
+      "name": "角色",
+      "font_class": "jiaose",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "1200234",
+      "name": "角色设置",
+      "font_class": "jiaoseshezhi",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "2150378",
+      "name": "电",
+      "font_class": "electricity_icon",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "3171243",
+      "name": "电",
+      "font_class": "fl-dian",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "3207698",
+      "name": "电表",
+      "font_class": "icon-ammeter",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "3283199",
+      "name": "用户设置",
+      "font_class": "setting-user",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "3283486",
+      "name": "角色设置",
+      "font_class": "setting-role",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "4942646",
+      "name": "角色",
+      "font_class": "jiaose1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "5048216",
+      "name": "水",
+      "font_class": "shui1",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "5083426",
+      "name": "水",
+      "font_class": "shui2",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "5387423",
+      "name": "水表",
+      "font_class": "shuibiao",
+      "unicode": "ead2",
+      "unicode_decimal": 60114
+    },
+    {
+      "icon_id": "6871074",
+      "name": "气",
+      "font_class": "qi",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "6871075",
+      "name": "电",
+      "font_class": "dian",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "6901793",
+      "name": "电",
+      "font_class": "dian1",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "7391802",
+      "name": "角色设置",
+      "font_class": "jiaoseshezhi-",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "9572186",
+      "name": "燃气表",
+      "font_class": "wulianwangditushangtubiao_huabanfuben",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "9923735",
+      "name": "能源分类管理",
+      "font_class": "nengyuanfenleiguanli",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "10143467",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "11072609",
+      "name": "98-用户设置",
+      "font_class": "-yonghushezhi",
+      "unicode": "e837",
+      "unicode_decimal": 59447
+    },
+    {
+      "icon_id": "11474219",
+      "name": "all",
+      "font_class": "all",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "11488000",
+      "name": "category",
+      "font_class": "category",
+      "unicode": "e747",
+      "unicode_decimal": 59207
+    },
+    {
+      "icon_id": "11488009",
+      "name": "conditions",
+      "font_class": "conditions",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "11488024",
+      "name": "Customer management",
+      "font_class": "Customermanagement",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "11488069",
+      "name": "loading",
+      "font_class": "loading",
+      "unicode": "e756",
+      "unicode_decimal": 59222
+    },
+    {
+      "icon_id": "11488168",
+      "name": "set",
+      "font_class": "set",
+      "unicode": "e76c",
+      "unicode_decimal": 59244
+    }
+  ]
+}
