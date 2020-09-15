@@ -19,7 +19,7 @@
           <input type="password" placeholder="请输入密码"   v-model="password" @keydown.enter="handleLogin"/>
         </div>
 
-        <button class="login_btn" @click.prevent="handleLogin">登 录</button>
+        <button class="login_btn" @click.prevent="handleLogin">登 录1</button>
       </div>
     </div>
 
